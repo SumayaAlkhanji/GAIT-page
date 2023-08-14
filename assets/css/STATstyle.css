@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;700&display=swap');
+
+
+#hedd1{
+    color: #504A8E;
+   
+}
+
+
+#hed41,#hed42, #hed43, #hed44, #hed45, #hed46, #hed47, #hed48 {
+    color: #504A8E;
+    font-weight: 600;
+    font-size: 1em;
+}
+
+#hedd31, #hedd32, #hedd33, #hedd34, #hedd35, #hedd36 { 
+    color: #504A8E;
+    font-size: 1.2em;
+}
+
+#icon1, #icon2, #icon3, #icon4, #icon5, #icon6, #icon7, #icon8 {
+    color: #504A8E;
+    font-size: 3.5em;
+    text-align: center;
+
+}
+
+
+#col1, #col2,#col3, #col4, #col5, #col6,#col7, #col8 {
+  margin-bottom: 200px;
+    height: 25vmin;
+    width:400x;
+    
+}
+
+#stat1 {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+#StatC1, #StatC2, #StatC3, #StatC4, #StatC5, #StatC6, #StatC7, #StatC8  {
+    box-shadow: 0 8px 22px rgba(0,0,0,0.1);
+    background-color:  #ffffff;
+    padding: 25px;
+    transition: all 0.35s ease;
+    border-bottom: 15px solid #D4562A;
+    height: 40vmin;
+    width:400x;
+}
+
+#StatC1:hover, #StatC2:hover, #StatC3:hover, #StatC4:hover, #StatC5:hover, #StatC6:hover, #StatC7:hover , #StatC8:hover {
+    box-shadow: none;
+    transform: translateY(5px);
+}
+
+
+
+
+
+
+
+
